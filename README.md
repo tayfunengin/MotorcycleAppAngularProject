@@ -55,14 +55,14 @@ When deleting a motorcycle by Delete Motorcycle link under Manage Motorcycle but
 To add a new motorcycle to list, please click on New Motorcycle button. This will open a new form. There are validations in both edit or new motorcycle creating forms. All fields are required. Form can not be submitted unless the whole form is valid.
 ![image](https://user-images.githubusercontent.com/71972947/173196442-6fbdf7b4-08f0-4419-98c6-ae10359008b4.png)
 
-Once created a new motorcycle, you can add its price to Price List by clicking To PRice List under Manage Motorcycle button in detail page.
+Once created a new motorcycle, you can add its price to Price List by clicking To Price List under Manage Motorcycle button in detail page.
 ![image](https://user-images.githubusercontent.com/71972947/173196541-9dcbd759-8265-447b-91f9-c49418aceb8d.png)
 
 You can delete a price by clicking on any Delete button on the list. It will disaapear with an animation.
 ![image](https://user-images.githubusercontent.com/71972947/173196563-c9c109ba-2b97-4dc2-8196-eee79786c071.png)
 
 If you type a page which does not exist in url, app is directed to not-found page.
-![image](https://user-images.githubusercontent.com/71972947/173196678-a3f92171-47f5-4b3f-b9a8-f63568a0659e.png)
+![image](https://user-images.githubusercontent.com/71972947/173197059-9d0f1ad6-393d-4093-98ff-55d02d8d804c.png)
 
 ## Running unit tests
 
@@ -75,3 +75,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Contact
+
+You can reach me via engin.tayfun@gmail.com.
+
+Thank you.
