@@ -11,7 +11,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 Below listed structures have been used in the development of this application:
 ####
 * Component
-* String interpolation, @Input(), ngIf,ngFor.
+* String interpolation, @Input(), ngIf, ngFor.
 * Custom Directive
 * Routing
 * Service
