@@ -59,7 +59,7 @@ To add a new motorcycle to list, please click on New Motorcycle button. This wil
 Once created a new motorcycle, you can add its price to Price List by clicking To Price List under Manage Motorcycle button in detail page.
 ![image](https://user-images.githubusercontent.com/71972947/173196541-9dcbd759-8265-447b-91f9-c49418aceb8d.png)
 
-You can delete a price by clicking on any Delete button on the list. It will disaapear with an animation.
+You can delete a price by clicking on any Delete button on the list. It will disappear with an animation.
 ![image](https://user-images.githubusercontent.com/71972947/173196563-c9c109ba-2b97-4dc2-8196-eee79786c071.png)
 
 If you type a page which does not exist in url, app is redirected to not-found page.
