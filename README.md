@@ -19,32 +19,32 @@ Below listed structures have been used in the development of this application:
 * Angular animation
 * Reactive Form
 * Model
-* 
+
 ## Usage
 
-In this app, you can create a motorcycle list where you can monitor details of each motorcycle, edit / delete a motorcycle from the list. Ypu can keep record of the prices of the motorcycle in motorcycle price list. Price list can also be managed. 
+In this app, you can create a motorcycle list where you can monitor details of each motorcycle, edit / delete a motorcycle from the list. You can keep record of the prices of the motorcycles in price list. Price list can also be managed. 
 
-When app runs first time, ıt starts with 2 recors in the both motorcycle and price list.
+When app runs first time, it starts with 2 records in the both motorcycle and price list.
 
-![image](https://user-images.githubusercontent.com/71972947/173195328-8a8f9159-7a80-4b60-95e0-4b7b0e240dbf.png)
+![image](https://user-images.githubusercontent.com/71972947/173196793-9f688734-aef6-408f-b6b6-df7024eb86fc.png)
 
-![image](https://user-images.githubusercontent.com/71972947/173195694-73822b86-0c9d-4ad6-b5b8-9f2617871d04.png)
+![image](https://user-images.githubusercontent.com/71972947/173196799-cde522ca-171c-4617-892d-06d39e02ecb6.png)
 
 When click on an item in the motorcycle list, details is displayed.
 ![image](https://user-images.githubusercontent.com/71972947/173195723-7578c87c-c4fa-48fd-a492-ad1259ef46e1.png)
 
 By Manage Motorcycle button, the record can be editted, deleted or its price can be added to price list.
-If its price alread exist in the price list, it is not added. When editing the motorcycle if its price is changed, it is also changed in price list. If motorcycle is deleted, its price is also deleted from the price list.
+If its price alread exists in the price list, it is not added. When editing the motorcycle, if its price is changed, it is also updated in price list. If a motorcycle is deleted, its price is also deleted from the price list.
 
-Lets change HorsePower to 60 and its price to 6500.
+Lets click on the Edit Motorcycle link under Manage Motorcycle button and change HorsePower to 60 and its price to 6500 EUR.
 ![image](https://user-images.githubusercontent.com/71972947/173196118-067f95f7-e69d-47d6-a2b4-2be8df7dffe9.png)
 
-Now in detail screen HorsePower is monitored as 60 and price is 6500 EUR also in Price List page its price is updated as &55 EUR.
+Now in detail screen HorsePower is monitored as 60 and price is 6500 EUR. Price List is also updated with new price of the motorcycle, which is 6500 EUR.
 ![image](https://user-images.githubusercontent.com/71972947/173196190-7cb6295f-4617-40a7-95d3-43b3a9b83115.png)
 
 ![image](https://user-images.githubusercontent.com/71972947/173196209-ab2c9a83-74d3-428d-835e-36233cc55b4f.png)
 
-When deleting the a motorcycle by Delete Motorcycle under Manage Motorcycle button, its deleted from both lists.
+When deleting a motorcycle by Delete Motorcycle link under Manage Motorcycle button, its deleted from both lists.
 
 ![image](https://user-images.githubusercontent.com/71972947/173196323-0df4798f-8a42-4ec1-8053-f485c145a297.png)
 
