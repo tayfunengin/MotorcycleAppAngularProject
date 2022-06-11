@@ -16,6 +16,7 @@ Below listed structures have been used in the development of this application:
 * Routing
 * Service
 * Subject
+* Subscription
 * Angular animation
 * Reactive Form
 * Model
