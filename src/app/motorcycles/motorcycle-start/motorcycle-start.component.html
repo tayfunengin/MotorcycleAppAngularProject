@@ -1,0 +1,4 @@
+<p *ngIf="motoCount > 0; else noMoto">Please select a Motorcycle!</p>
+<ng-template #noMoto>
+  <p>Please create a motorcycle!</p>
+</ng-template>
