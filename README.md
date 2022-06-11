@@ -53,7 +53,7 @@ When deleting a motorcycle by Delete Motorcycle link under Manage Motorcycle but
 
 ![image](https://user-images.githubusercontent.com/71972947/173196389-ebe32e4b-5124-458d-bbe5-25c950f8a3ab.png)
 
-To add a new motorcycle to list, please click on New Motorcycle button. This will open a new form. There are validations in both edit or new motorcycle creating forms. All fields are required. Form can not be submitted unless the whole form is valid.
+To add a new motorcycle to list, please click on New Motorcycle button. This will open a new form. There are validations in both edit and new motorcycle forms. All fields are required. Form can not be submitted unless the whole form is valid.
 ![image](https://user-images.githubusercontent.com/71972947/173196442-6fbdf7b4-08f0-4419-98c6-ae10359008b4.png)
 
 Once created a new motorcycle, you can add its price to Price List by clicking To Price List under Manage Motorcycle button in detail page.
