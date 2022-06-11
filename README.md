@@ -61,7 +61,7 @@ Once created a new motorcycle, you can add its price to Price List by clicking T
 You can delete a price by clicking on any Delete button on the list. It will disaapear with an animation.
 ![image](https://user-images.githubusercontent.com/71972947/173196563-c9c109ba-2b97-4dc2-8196-eee79786c071.png)
 
-If you type a page which does not exist in url, app is directed to not-found page.
+If you type a page which does not exist in url, app is redirected to not-found page.
 ![image](https://user-images.githubusercontent.com/71972947/173197059-9d0f1ad6-393d-4093-98ff-55d02d8d804c.png)
 
 ## Running unit tests
